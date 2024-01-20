@@ -11,5 +11,5 @@ featureClass:
   ngtdm: []
 setting:
   binWidth: 25
-  resampledPixelSpacing:
+  resampledPixelSpacing: [1.1]
   force2D: true
