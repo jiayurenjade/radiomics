@@ -1,0 +1,15 @@
+imageType:
+  Original: {}
+  Wavelet: {}
+featureClass:
+  shape: []
+  firstorder: []
+  glcm: []
+  glrlm: []
+  glszm: []
+  gldm: []
+  ngtdm: []
+setting:
+  binWidth: 25
+  resampledPixelSpacing:
+  force2D: true
